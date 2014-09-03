@@ -23,7 +23,6 @@ public class Game extends BasicGameState {
 	private Rectangle pcsqr;
 	private int pcY = 261;
 	private int pcX = 10;
-	private int boxW = 30;
 	private int boxH = 60;
 	private ArrayList<Circle> balls;
 	private Image rock;
